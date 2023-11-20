@@ -1,0 +1,6 @@
+#Here is your first program on NodetLang 0.5
+
+print: "Hello, world!\n"
+var float a 0.0
+
+return: 0
